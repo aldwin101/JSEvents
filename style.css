@@ -1,0 +1,28 @@
+.revealSub {
+    display: block;
+}
+
+.hideSub {
+    display: none;
+}
+
+.backGroundColor {
+    background-color: aqua;
+}
+
+div {
+    display: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+button {
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
